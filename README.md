@@ -8,7 +8,6 @@
  <a href="mailto:bhusnarpradip@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.instagram.com/pradip.bhusnar/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
-<br />
 
 #### 🧰 Languages and Tools:
 <p align="left">

@@ -21,9 +21,9 @@
 </p>
 
 #### My Github stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhusnar5044&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhusnar5044&theme=tokyonight)
 
 
 <!-- **Bhusnar5044/Bhusnar5044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

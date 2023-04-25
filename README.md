@@ -4,31 +4,26 @@
 
 #### 🧰 Languages and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,figma&theme=light" height="30" style="vertical-align:top; margin:4px"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript&theme=light" height="30" style="vertical-align:top; margin:4px"/>
 </p>
 <p align="left">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="30" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Python" height="30" style="vertical-align:top; margin:4px">
- </p>
-  <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- </P>
- <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
-   <img src="https://learning-analytics.dorinstanciu.com/images/RStudio.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
- </P>
- 
+    <img src="https://skillicons.dev/icons?i=figma&theme=light" height="30" style="vertical-align:top; margin:4px"/>
+</p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=webpack,vite&theme=light" height="30" style="vertical-align:top; margin:4px"/>
+</p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,django&theme=light" height="30" style="vertical-align:top; margin:4px"/>
+</p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="30" style="vertical-align:top; margin:4px"/>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" height="30" style="vertical-align:top; margin:4px"/>
+</P>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter-notebook&theme=light" height="30" style="vertical-align:top; margin:4px"/>
+</P>
 <hr>
 
 #### Github Stats:

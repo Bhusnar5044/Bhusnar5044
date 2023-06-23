@@ -27,7 +27,7 @@
 <hr>
 
 #### Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhusnar5044&show_icons=true&theme=tokyonight)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhusnar5044&show_icons=true&theme=tokyonight) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhusnar5044&theme=tokyonight)
 
